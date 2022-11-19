@@ -1,0 +1,162 @@
+.container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+nav{
+    background-color:#0648b3;
+
+}
+li{
+    padding-right: 10px;
+    font-weight: 500;
+}
+.section{
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+    background-color: #0648b3;
+    color: white;
+}
+.section-header{
+    position: relative;
+    padding-top: 50px;
+    background-color:#0648b3!important;
+    margin-bottom: ;
+}
+
+.justify-content-center{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 50px;
+    position: relative;
+
+}
+.btn-white{
+    background-color: #ffffff;
+    border-color: #ffffff;
+
+}
+.pattern{
+    background-image: url(../img/wave-soft.svg);
+}
+
+.col-12{
+    position: relative;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.btn{
+    background-color: #ee5050;
+    border-color:#ee5050;
+
+
+}
+.btn-secondary{
+    background-color:#ee5050 ;
+}
+.icon-shape{
+    display: inline-flex;
+    justify-content: center;
+    width: 70px;
+    height: 70px;
+}
+.icon-shape-primary{
+    color: #0648b3;
+    background-color: rgba(6,72,179,.2);
+    font-size: 20px;
+}
+.icon-xs{
+    font-size: 20px;
+}
+.fa-chart-pie{
+    font-size: 40px;
+    padding: 15px;
+}
+.fa-shield-alt{
+    font-size: 40px;
+    padding: 15px;
+}
+.fa-arrow-right{
+    font-size: 20px;
+}
+.fa-rocket{
+    font-size: 40px;
+    padding: 15px;
+}
+.fa-headset{
+    font-size: 40px;
+    padding: 15px;
+}
+.box{
+    color: #0648b3;
+    padding: 40px 30px;
+    text-align: center;
+}
+.arrow-icon{
+    padding-left: 2px;
+}
+
+}
+.box{
+    color: #0648b3;
+    padding: 40px 30px;
+    text-align: center;
+}
+.arrow-icon{
+    padding-left: 2px;
+}
+.icon{
+    margin-bottom: 10px;
+    font-size: 50px;
+}
+.pattern{
+    background-image: url("wave1.svg");
+}
+
+
+.footer{
+    background-color:#0648b3!important;
+}
+
+ul{
+    text-decoration: none;
+}
+
+
+
+.expert-des{
+    font-size: 18px;
+    font-weight: 400;
+}
+.rounded-circle{
+    border-radius: 50%;
+}
+
+.image-sm{
+    height: 50px;
+}
+
+.rounded{
+border-radius: 50%;
+}
+.border-light{
+   border-color: #eaedf2!important
+}
+.bg-soft{
+    background-color: #f4f6fc!important;;
+}
+
+.pt-lg-6{
+    padding-top: 80px;
+}
+
+.mr-2{
+margin-right: 20px;
+}
+
+
+
+
